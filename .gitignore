@@ -46,4 +46,4 @@ app.*.map.json
 
 
 # ignore key
-/Users/samarthsoni/Desktop/flutter_bot/flutter_bot/lib/core/constants/api_const.dart
+/lib/core/constants/api_const.dart
