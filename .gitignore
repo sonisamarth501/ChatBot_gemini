@@ -46,4 +46,4 @@ app.*.map.json
 
 
 # ignore key
-/lib/core/constants/api_const.dart
+lib/core/constants
